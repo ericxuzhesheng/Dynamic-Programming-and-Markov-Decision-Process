@@ -1,10 +1,6 @@
 # 动态规划与马尔可夫决策过程｜Dynamic Programming and Markov Decision Processes
 
 <p align="center">
-  <img src="assets/figures/readme_cover.png" alt="Presentation cover preview" width="86%">
-</p>
-
-<p align="center">
   <a href="#zh-cn">
     <img alt="Chinese" src="https://img.shields.io/badge/LANGUAGE-%E4%B8%AD%E6%96%87-E74C3C?style=for-the-badge&logo=googletranslate&logoColor=white">
   </a>
@@ -30,6 +26,10 @@
 <p align="center">
   <img src="assets/figures/trading_convergence.png" alt="Trading MDP convergence" width="46%">
   <img src="assets/figures/american_put_tree.png" alt="American put decision tree" width="46%">
+</p>
+<p align="center">
+  <img src="assets/figures/trading_reward_heatmap.png" alt="Trading reward heatmap" width="38%">
+  <img src="assets/figures/american_put_tree.png" alt="American put tree" width="52%">
 </p>
 
 ### 仓库结构
@@ -85,6 +85,10 @@ This repository is a rebuilt presentation project on dynamic programming, Markov
 
 ### Project Preview
 
+<p align="center">
+  <img src="assets/figures/trading_convergence.png" alt="Trading MDP convergence" width="46%">
+  <img src="assets/figures/american_put_tree.png" alt="American put decision tree" width="46%">
+</p>
 <p align="center">
   <img src="assets/figures/trading_reward_heatmap.png" alt="Trading reward heatmap" width="38%">
   <img src="assets/figures/american_put_tree.png" alt="American put tree" width="52%">
