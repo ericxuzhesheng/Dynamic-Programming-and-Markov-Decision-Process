@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+output/slides/*.aux
+output/slides/*.log
+output/slides/*.nav
+output/slides/*.out
+output/slides/*.snm
+output/slides/*.toc

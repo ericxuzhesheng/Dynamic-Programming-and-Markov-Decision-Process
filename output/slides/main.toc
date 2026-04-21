@@ -1,6 +1,0 @@
-\beamer@sectionintoc {1}{Why This Topic}{3}{0}{1}
-\beamer@sectionintoc {2}{From Dynamic Programming to MDPs}{4}{0}{2}
-\beamer@sectionintoc {3}{Algorithms}{8}{0}{3}
-\beamer@sectionintoc {4}{Example 1: Trading MDP}{10}{0}{4}
-\beamer@sectionintoc {5}{Example 2: American Put Option}{13}{0}{5}
-\beamer@sectionintoc {6}{Takeaways}{16}{0}{6}
